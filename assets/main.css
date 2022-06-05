@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+* {
+  border: 3px solid red;
+}
+header {
+  background-color: aqua;
+}
+
+#container {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+  border: 3px solid red;
+}
+.TopNav_topNav__30h7J {
+  background-color: #1c1b1b;
+  color: #fff;
+  outline: none;
+  padding: 0 24px;
+}
+.topnav #myLinks {
+  display: none;
+}
+img {
+  align-items: flex-start;
+}
+h3 {
+  display: flex;
+  text-align: center;
+}
+nav {
+  display: flex;
+  text-align: right;
+}
